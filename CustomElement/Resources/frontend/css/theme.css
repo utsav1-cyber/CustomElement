@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+.banner-section{
+    position: relative;
+    height: auto;
+}
+.banner-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -46%);
+    width: 40%;
+}
+.custom-text-element h1{
+    color: #fff;
+    text-align: center;
+    background: rgba(0,0,0,0.3);
+    margin: 0;
+    padding: 20px;
+    font-size: 25px;
+}
+.description_text{
+    background: rgba(0,0,0,0.3);
+    margin-top: 5px;
+}
+.description_text p span{
+    display: inline-block;
+    color: #fff !important;
+    margin: 0;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+.button_link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a.banner-button{
+    display: inline-block;
+    margin: 20px 0;
+    padding: 10px 20px;
+    text-align: center;
+    background: rgb(5, 103, 141);
+    color: #fff;
+}
