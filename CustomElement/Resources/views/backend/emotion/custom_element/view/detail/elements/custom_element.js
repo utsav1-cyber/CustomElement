@@ -13,6 +13,11 @@ Ext.define('Shopware.apps.Emotion.view.detail.elements.CustomElement', {
      * The pattern is always 'widget.detail-element-' + xtype
      */
     alias: 'widget.detail-element-emotion-components-custom',
+    
+    /**
+     * You can define an additional CSS class which will be used for the grid element.
+     */
+    componentCls: 'emotion--custom-element',
 
     /**
      * Define the path to an image for the icon of your element.
