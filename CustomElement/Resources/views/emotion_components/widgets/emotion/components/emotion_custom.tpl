@@ -2,9 +2,7 @@
 
 
     <div class="banner-section">
-        <div class="banner-image">
-            <img src="{$Data.preview_image}" alt="image">
-        </div>
+        <img src="{$Data.preview_image}" alt="image">
 
         <div class="banner-content">
             <div class="custom-text-element">
@@ -13,6 +11,10 @@
 
             <div class="description_text">
                <p>{$Data.description_text}</p>
+            </div>
+
+            <div class="button_text">
+               <h3>{$Data.button_text}</h3>
             </div>
 
             <div class="button_link">

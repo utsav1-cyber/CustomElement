@@ -1,0 +1,14 @@
+{
+    "name": "custom/shopware-element",
+    "type": "shopware-plugin",
+    "description": "This is the banner text plugin of shopware 5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BAY20 SOFTWARE CONSULTANCY SERVICES PVT. LTD."
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}
