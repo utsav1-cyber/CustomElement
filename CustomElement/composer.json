@@ -8,7 +8,10 @@
             "name": "BAY20 SOFTWARE CONSULTANCY SERVICES PVT. LTD."
         }
     ],
-    "require": {
-        "php": ">=7.2"
+    "extra": {
+        "label": {
+            "de-DE": "Banner Text Element",
+            "en-GB": "Banner Text Element"
+        }
     }
 }
