@@ -2,11 +2,11 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.3/engine/Shopware/Components/Plugin/schema/config.xsd">
     <elements>
-        <element required="true" type="text" scope="locale">
+        <element type="text">
             <name>Bay20 Banner Text Element</name>
-            <label lang="en">Banner Text</label>
-            <label lang="de">Banner Text</label>
-            <value>preselection</value>
+            <label>Text Element</label>
+            <label lang="de">Text Element</label>
+            <value>Yes</value>
             <description lang="en">This is the Banner plugin of shopware 5</description>
         </element>
     </elements>
