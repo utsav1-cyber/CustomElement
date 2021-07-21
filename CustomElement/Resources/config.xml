@@ -4,8 +4,8 @@
     <elements>
         <element type="text">
             <name>Bay20 Banner Text Element</name>
-            <label>Text Element</label>
-            <label lang="de">Text Element</label>
+            <label>Show Text Element</label>
+            <label lang="de">Textelement anzeigen</label>
             <value>Yes</value>
             <description lang="en">This is the Banner plugin of shopware 5</description>
         </element>
